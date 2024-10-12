@@ -1,16 +1,16 @@
-# HR-Metrics-Hub
+## HR-Metrics-Hub
 
 Project Overview: 
 
 The "HR Metrics Hub" is a comprehensive Power BI project designed to enhance employee performance and improve employee retention within an organization. This project leverages data analytics to provide actionable insights into various HR metrics, allowing management to make informed decisions to foster a more productive and satisfied workforce.
 
-Objectives
+## Objectives
 
 Improve Employee Performance: By analyzing key performance indicators, identifying trends, and highlighting areas for improvement, the dashboard enables HR professionals and managers to implement targeted strategies to boost employee productivity.
 
 Reduce Attrition: The project focuses on understanding the factors that contribute to employee turnover. By examining trends in attrition rates and identifying at-risk employees, the dashboard helps in creating effective retention strategies.
 
-Key Features
+# Key Features
 
 Performance Analysis: Visualizations that track individual and team performance metrics over time.
 
